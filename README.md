@@ -14,7 +14,7 @@ Design a rugged and immersive shop UI where players can buy, sell, trade, and up
 
 ## 🖼️ Screenshots
 
-![Wireframe Preview](C:\Users\DemiG\OneDrive\Desktop\Portfolio\UI Peeps\Wireframe.png)  
+![Wireframe Preview](screens/Wireframe.png)  
 *Wireframe layout showing resources, controls, and player progress.*
 
 ![Store Screen](C:\Users\DemiG\OneDrive\Desktop\Portfolio\UI Peeps\Store Screen.png)  
