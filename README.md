@@ -9,19 +9,25 @@ Design a rugged and immersive shop UI where players can buy, sell, trade, and up
 ## 🧰 Features
 
 - Buy, Sell, Trade, and Upgrade screens
-- Barter/haggling interaction
 - Thematic UI design: distressed, utilitarian, survivalist
-- Icons, currency, item cards, and upgrade stats
+- Icons, currency, item cards
 
 ## 🖼️ Screenshots
 
-`/screens/` – Visuals and in-game mockups of the UI in action.
+![Wireframe Preview](C:\Users\DemiG\OneDrive\Desktop\Portfolio\UI Peeps\Wireframe.png)  
+*Wireframe layout showing resources, controls, and player progress.*
+
+![Store Screen](C:\Users\DemiG\OneDrive\Desktop\Portfolio\UI Peeps\Store Screen.png)  
+*Set of sci-fi icons and UI designed for trade, sell menus.*
+
+![Components Screen](C:\Users\DemiG\OneDrive\Desktop\Portfolio\UI Peeps\Components.png)  
+*Game icons and components.*
 
 ## 🧱 Tools Used
 
 - Figma (UI layout, components)
 - Photoshop (asset polishing)
-- Fonts: Orbitron, Share Tech Mono
+- Fonts: Orbitron
 - Icons: Custom-designed
 
 ## 📁 Repo Structure
