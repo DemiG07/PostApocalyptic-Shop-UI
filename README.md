@@ -17,10 +17,10 @@ Design a rugged and immersive shop UI where players can buy, sell, trade, and up
 ![Wireframe Preview](screens/Wireframe.png)  
 *Wireframe layout showing resources, controls, and player progress.*
 
-![Store Screen](screens/Store Screen.png) 
+![Store Screen](screens/StoreScreen.png) 
 *Set of sci-fi icons and UI designed for trade, sell menus.*
 
-![Components Screen](C:\Users\DemiG\OneDrive\Desktop\Portfolio\UI Peeps\Components.png)  
+![Components Screen](screens/Components.png)  
 *Game icons and components.*
 
 ## 🧱 Tools Used
